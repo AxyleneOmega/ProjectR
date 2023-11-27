@@ -1,0 +1,16 @@
+Programming Deadlines [Preliminary]
+
+
+1. NOV - Damage System
+2. DEC - Dodge & Dash, AI + 2 enemies with full AI shippable
+------------
+3. JAN - Attack Manager /// tbd specific
+4. FEB - Animation stuff with boss stuffs
+5. MAR - Weapon Archetypes & Ability Systems
+------------
+6. APR - Procedural Level Gen Tools (Spline tools, pcg setups)
+7. MAY - [DESIGN SOFTLOCK]
+8. JUN - Economy & Prestige System (Currency System)
+------------
+9. JUL - Alpha Ready TARGET
+10. AUG - Polish Post-alpha
