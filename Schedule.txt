@@ -14,3 +14,6 @@ Programming Deadlines [Preliminary]
 ------------
 9. JUL - Alpha Ready TARGET
 10. AUG - Polish Post-alpha
+
+OCT
+NOV
